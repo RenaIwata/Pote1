@@ -36,9 +36,9 @@ a:focus {outline:none;}
 	transition: opacity 0.2s;
 }
 
-.header-logo:hover{
+.header-logo:hover {
 	opacity: 0.8;
-	} 
+}
 
 .header-nav {
 	display:flex;
@@ -71,9 +71,9 @@ a:focus {outline:none;}
 	transition: opacity 0.2s;
 }
 
-.header-nav__link-btn:hover{
+.header-nav__link-btn:hover {
 	opacity: 0.7;
-	} 
+}
 
 .kv {
 	background: url(./img/top-hero.jpeg) 0 0 no-repeat;
@@ -110,9 +110,9 @@ a:focus {outline:none;}
 	transition: opacity 0.2s;
 }
 
-.kv-btn__contact:hover{
+.kv-btn__contact:hover {
 	opacity: 0.7;
-	} 
+}
 
 .kv-btn__contact a {
 	color: #ffffff;
@@ -133,7 +133,7 @@ a:focus {outline:none;}
 	display: block;
 }
 
-.kv-txt{
+.kv-txt {
 	list-style: none;
 	color: #A2A2A4;
     font-size: 12px;
@@ -141,7 +141,7 @@ a:focus {outline:none;}
 	padding: 30px 0 35px 0;   
 }
 
-.kv-txt__rule{
+.kv-txt__rule {
 	color: #A2A2A4;
 }
 
